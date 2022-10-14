@@ -2,8 +2,8 @@
 
 d = { 'settings': { 'branch': 'main',
                 'doc_baseurl': '/canliicalls',
-                'doc_host': 'https://simon-lawyer\n\nrequirements = fastcore pandas requests.github.io',
-                'git_url': 'https://github.com/simon-lawyer\n\nrequirements = fastcore pandas requests/canliicalls',
+                'doc_host': 'https://simon-lawyer.github.io',
+                'git_url': 'https://github.com/simon-lawyer/canliicalls',
                 'lib_path': 'canliicalls'},
   'syms': { 'canliicalls.caller': { 'canliicalls.caller.Caller': ('caller.html#caller', 'canliicalls/caller.py'),
                                     'canliicalls.caller.Caller.__init__': ('caller.html#caller.__init__', 'canliicalls/caller.py'),
